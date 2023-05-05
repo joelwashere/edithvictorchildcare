@@ -22,7 +22,7 @@ export const Navbar: FC = (props: any) => {
           Edith & Victor Family Child Care
         </div>
       </Link>
-      <div className="">
+      <div className="sm:invisible md:invisible">
         <ul className="max-w-full flex items-center">
           <NavItem href="/" text="Our Team" />
           <NavItem href="/" text="Testimonials" />
