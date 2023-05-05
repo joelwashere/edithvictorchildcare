@@ -24,7 +24,7 @@ export const Navbar: FC = (props: any) => {
       </Link>
       <div className="">
         <ul className="max-w-full flex items-center">
-          <NavItem href="/" text="Contact Us" />
+          <NavItem href="/" text="Our Team" />
           <NavItem href="/" text="Testimonials" />
           <NavItem href="/" text="Contact Us" />
           {/*TODO: Implement chat backend
