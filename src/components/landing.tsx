@@ -4,7 +4,7 @@ import { HiChevronDown } from "react-icons/hi";
 //[#aaa0a0]
 export const Landing: FC = () => {
   return (
-    <section className="h-screen bg-gradient-to-r from-[#77dd77] via-[#77dd77] to-[#77dd77]">
+    <section className="h-screen bg-[#1eb53a]">
       <div className="flex flex-col h-full my-auto">
         <div className="flex w-4/5 h-screen mx-auto pt-20">
           <div className="flex flex-col h-4/5 my-auto items-center justify-center text-center mx-auto">

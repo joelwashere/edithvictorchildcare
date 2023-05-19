@@ -3,7 +3,7 @@ import { FC } from "react";
 export const ContactUs: FC = () => {
 
   return (
-    <section className="bg-[#77dd77] flex flex-col pt-10 pb-20 px-8 justify-center items-center text-white">
+    <section className="bg-[#1eb53a] flex flex-col pt-10 pb-20 px-8 justify-center items-center text-white">
       <h1 className="text-4xl font-bold">Contact Us</h1>
       <form className="flex flex-col gap-4 mt-10 px-10 lg:mt-14 min-w-full md:min-w-[500px] xl:min-w-[600px]">
         <input id="companyName" name="companyName" className="p-2 m-1 bg-[#f2f2f2] text-white outline-none border-2 border-white font-semibold rounded" placeholder="Your Name" type={"text"} />
